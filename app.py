@@ -18,14 +18,9 @@ def hello_world():
 
 <body>
     <div class="container" style="bg-dark text-red text-center py-3 mt-5">
-        <a href="https://github.com/nikhilsaini098" class="card">
+        <a href="https://github.com/nitinyadav798906" class="card">
             <p>
-              />▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄<br 
-	      />██░▄▄▄░█░▄▄▀█▄░▄██░▀██░█▄░▄██<br 
-              />██▄▄▄▀▀█░▀▀░██░███░█░█░██░███<br 
-	      />██░▀▀▀░█░██░█▀░▀██░██▄░█▀░▀██<br 
-              />▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀<br />
-                                             <br>
+              
 
                 <b>v2.0.0</b>
             </p>
@@ -34,7 +29,7 @@ def hello_world():
 	<br></br><br></br><br></br>
 	<footer class="bg-dark text-white text-center py-3 mt-5">
 	<center><img loading="lazy" class="object-none object-center" src="https://tinypic.host/images/2025/04/14/1000000208.th.jpg" width="240" height="120">
-        Powered By SAINI 
+        Powered By sky 
 		<img loading="lazy" class="object-none object-center" src="https://tinypic.host/images/2025/04/14/1000000208.th.jpg" width="240" height="120">
 		<div class="footer__copyright">
             <p class="footer__copyright-info">
